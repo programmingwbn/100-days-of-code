@@ -14,9 +14,18 @@
 
 ### Day 1: Aug 27, 2023 Sunday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp (1/4 of the web development course)
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp (2/4 of the web development course)
 
 **Thoughts** I've recently come back to coding as it became a neccessary skill. Today was challenging. I was so tired but I pushed through...
+
+**Link(s) to work**
+1. [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
+
+### Day 2: Aug 28, 2023 Monday
+
+**Today's Progress**: I've gone through many exercises on FreeCodeCamp (3/4 of the web development course)
+
+**Thoughts** I've recently come back to coding as it became a neccessary skill. Today was challenging. I was so tired but I pushed through.. so many school work as well...
 
 **Link(s) to work**
 1. [FreeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/#learn-basic-css-by-building-a-cafe-menu)
