@@ -41,4 +41,8 @@
 
 **Thoughts** I should try to balance the work life better...
 
+### Day 5: Sep 6. 2023 Tuesday
 
+**Today's Progress**: I leaned the CSS Box Model
+
+**Thoughts** I should try to balance the work life better...
